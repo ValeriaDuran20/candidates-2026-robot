@@ -1,8 +1,4 @@
 /*
-  Fecha: 18/09/2026
-  Valeria Duran Vasquez, A00846220
- Candidates 2026 RoBorregos
-
   QUE HACE ESTE PROGRAMA
   Solo lee los tres numeros que da el sensor y los escribe en la pantalla.
   No decide colores todavia. Es nada mas para comprobar que el sensor esta
